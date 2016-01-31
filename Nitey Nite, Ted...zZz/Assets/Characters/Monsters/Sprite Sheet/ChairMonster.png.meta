@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 3cb8f23ebf103724ab2c2a5d33c9be6e
+timeCreated: 1454141264
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChairMonster_0
+    21300002: ChairMonster_1
+    21300004: ChairMonster_2
+    21300006: ChairMonster_3
+    21300008: ChairMonster_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChairMonster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 11}
+        - {x: 67, y: 13}
+        - {x: -52, y: 13}
+        - {x: -59, y: -3}
+        - {x: -59, y: -103}
+        - {x: -52, y: -128}
+        - {x: 73, y: -128}
+        - {x: 83, y: -57}
+        - {x: 83, y: -8}
+    - name: ChairMonster_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 33}
+        - {x: -36, y: 33}
+        - {x: -62, y: 16}
+        - {x: -79, y: -15}
+        - {x: -79, y: -56}
+        - {x: -59, y: -128}
+        - {x: 70, y: -128}
+        - {x: 86, y: -56}
+        - {x: 86, y: -18}
+        - {x: 70, y: 26}
+    - name: ChairMonster_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 55}
+        - {x: -76, y: 55}
+        - {x: -93, y: 10}
+        - {x: -98, y: -33}
+        - {x: -98, y: -128}
+        - {x: 99, y: -128}
+        - {x: 100, y: -116}
+        - {x: 100, y: -95}
+      - - {x: -44, y: -128}
+        - {x: -34, y: -128}
+        - {x: -34, y: -124}
+        - {x: -35, y: -122}
+        - {x: -42, y: -122}
+        - {x: -44, y: -124}
+      - - {x: 49, y: -123}
+        - {x: 47, y: -126}
+        - {x: 47, y: -128}
+        - {x: 65, y: -128}
+        - {x: 65, y: -126}
+        - {x: 63, y: -123}
+      - - {x: -52, y: -118}
+        - {x: -57, y: -120}
+        - {x: -57, y: -123}
+        - {x: -54, y: -127}
+        - {x: -49, y: -127}
+        - {x: -46, y: -124}
+        - {x: -46, y: -122}
+        - {x: -48, y: -118}
+    - name: ChairMonster_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: -37}
+        - {x: 89, y: -40}
+        - {x: 77, y: -43}
+        - {x: 69, y: 42}
+        - {x: 60, y: 97}
+        - {x: -14, y: 97}
+        - {x: -30, y: 72}
+        - {x: -99, y: -20}
+        - {x: -105, y: -46}
+        - {x: -105, y: -116}
+        - {x: -92, y: -128}
+        - {x: 106, y: -128}
+        - {x: 106, y: -20}
+        - {x: 90, y: -34}
+      - - {x: 42, y: -116}
+        - {x: 41, y: -118}
+        - {x: 41, y: -123}
+        - {x: 42, y: -124}
+        - {x: 58, y: -124}
+        - {x: 59, y: -121}
+        - {x: 59, y: -117}
+        - {x: 57, y: -116}
+      - - {x: -49, y: -115}
+        - {x: -51, y: -116}
+        - {x: -51, y: -119}
+        - {x: -48, y: -123}
+        - {x: -44, y: -123}
+        - {x: -40, y: -120}
+        - {x: -40, y: -118}
+        - {x: -41, y: -115}
+      - - {x: -58, y: -111}
+        - {x: -63, y: -113}
+        - {x: -63, y: -117}
+        - {x: -60, y: -121}
+        - {x: -57, y: -121}
+        - {x: -52, y: -117}
+        - {x: -52, y: -115}
+        - {x: -54, y: -112}
+    - name: ChairMonster_4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 304
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 87}
+        - {x: 57, y: 120}
+        - {x: 36, y: 120}
+        - {x: 28, y: 115}
+        - {x: 19, y: 108}
+        - {x: 23, y: 113}
+        - {x: 24, y: 120}
+        - {x: -3, y: 120}
+        - {x: -21, y: 108}
+        - {x: -94, y: 8}
+        - {x: -91, y: -31}
+        - {x: -59, y: -46}
+        - {x: -53, y: -33}
+        - {x: -48, y: -63}
+        - {x: -42, y: -69}
+        - {x: -38, y: -42}
+        - {x: -22, y: -59}
+        - {x: -61, y: -84}
+        - {x: -48, y: -61}
+        - {x: -49, y: -57}
+        - {x: -51, y: -52}
+        - {x: -59, y: -46}
+        - {x: -72, y: -47}
+        - {x: -78, y: -52}
+        - {x: -89, y: -63}
+        - {x: -85, y: -72}
+        - {x: -80, y: -67}
+        - {x: -79, y: -67}
+        - {x: -81, y: -68}
+        - {x: -91, y: -78}
+        - {x: -91, y: -89}
+        - {x: -99, y: -86}
+        - {x: -104, y: -87}
+        - {x: -104, y: -98}
+        - {x: -101, y: -102}
+        - {x: -93, y: -108}
+        - {x: -98, y: -107}
+        - {x: -101, y: -108}
+        - {x: -104, y: -111}
+        - {x: -104, y: -112}
+        - {x: -99, y: -116}
+        - {x: -88, y: -128}
+        - {x: 107, y: -128}
+        - {x: 107, y: -24}
+        - {x: 88, y: -28}
+      - - {x: 43, y: -116}
+        - {x: 41, y: -117}
+        - {x: 41, y: -120}
+        - {x: 43, y: -124}
+        - {x: 58, y: -124}
+        - {x: 60, y: -123}
+        - {x: 60, y: -119}
+        - {x: 59, y: -116}
+      - - {x: -50, y: -119}
+        - {x: -48, y: -123}
+        - {x: -42, y: -123}
+        - {x: -39, y: -121}
+        - {x: -39, y: -118}
+        - {x: -41, y: -115}
+        - {x: -48, y: -115}
+        - {x: -50, y: -117}
+      - - {x: -57, y: -111}
+        - {x: -62, y: -113}
+        - {x: -62, y: -117}
+        - {x: -59, y: -121}
+        - {x: -56, y: -121}
+        - {x: -52, y: -119}
+        - {x: -51, y: -115}
+        - {x: -53, y: -112}
+      - - {x: -17, y: -41}
+        - {x: -17, y: -49}
+        - {x: -11, y: -49}
+        - {x: -11, y: -41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

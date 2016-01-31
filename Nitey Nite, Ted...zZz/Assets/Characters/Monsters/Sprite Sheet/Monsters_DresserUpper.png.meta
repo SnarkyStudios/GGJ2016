@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: a0d2457575c918a4ab8d520e4680140f
+timeCreated: 1454228079
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monsters_DresserUpper_0
+    21300002: Monsters_DresserUpper_1
+    21300004: Monsters_DresserUpper_2
+    21300006: Monsters_DresserUpper_3
+    21300008: Monsters_DresserUpper_4
+    21300010: Monsters_DresserUpper_5
+    21300012: Monsters_DresserUpper_6
+    21300014: Monsters_DresserUpper_7
+    21300016: Monsters_DresserUpper_8
+    21300018: Monsters_DresserUpper_9
+    21300020: Monsters_DresserUpper_10
+    21300022: Monsters_DresserUpper_11
+    21300024: Monsters_DresserUpper_12
+    21300026: Monsters_DresserUpper_13
+    21300028: Monsters_DresserUpper_14
+    21300030: Monsters_DresserUpper_15
+    21300032: Monsters_DresserUpper_16
+    21300034: Monsters_DresserUpper_17
+    21300036: Monsters_DresserUpper_18
+    21300038: Monsters_DresserUpper_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monsters_DresserUpper_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 324
+        width: 10
+        height: 28
+      alignment: 9
+      pivot: {x: 0.36581764, y: 0.07668413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Monsters_DresserUpper_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 324
+        width: 22
+        height: 53
+      alignment: 9
+      pivot: {x: 0.29669258, y: 0.044283886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Monsters_DresserUpper_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 324
+        width: 35
+        height: 82
+      alignment: 9
+      pivot: {x: 0.26358294, y: 0.025450544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.774597, y: 79.913055}
+        - {x: 8.774597, y: 73.913055}
+        - {x: 7.774597, y: 64.913055}
+        - {x: -9.225403, y: 13.913055}
+        - {x: -9.225403, y: -2.0869446}
+        - {x: 13.774597, y: -2.0869446}
+        - {x: 25.774597, y: 13.913055}
+        - {x: 25.774597, y: 77.913055}
+        - {x: 21.774597, y: 79.913055}
+    - name: Monsters_DresserUpper_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 324
+        width: 56
+        height: 94
+      alignment: 9
+      pivot: {x: 0.1924978, y: 0.0170366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.220123, y: 92.39856}
+        - {x: -10.779877, y: 36.39856}
+        - {x: -10.779877, y: -1.6014404}
+        - {x: 23.220123, y: -1.6014404}
+        - {x: 45.220123, y: 42.39856}
+        - {x: 45.220123, y: 92.39856}
+    - name: Monsters_DresserUpper_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 324
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.1500718, y: 0.014603355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.2439, y: 85.714905}
+        - {x: 71.2439, y: 86.714905}
+        - {x: 43.243896, y: 86.714905}
+        - {x: 25.243896, y: 81.714905}
+        - {x: -12.7561035, y: 6.714905}
+        - {x: -12.7561035, y: -1.2850952}
+        - {x: 15.2438965, y: -1.2850952}
+        - {x: 24.243896, y: 8.714905}
+        - {x: 32.243896, y: 18.714905}
+        - {x: 72.2439, y: 66.714905}
+    - name: Monsters_DresserUpper_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 324
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.14313069, y: 0.019177627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.454285, y: 11.46579}
+        - {x: -13.454285, y: 6.46579}
+        - {x: -13.454285, y: -1.5342102}
+        - {x: 69.545715, y: -1.5342102}
+        - {x: 80.545715, y: 20.46579}
+        - {x: 80.545715, y: 78.46579}
+        - {x: 29.545715, y: 78.46579}
+        - {x: 18.545715, y: 75.46579}
+    - name: Monsters_DresserUpper_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 324
+        width: 99
+        height: 75
+      alignment: 9
+      pivot: {x: 0.13178723, y: 0.019923097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.953064, y: 73.50577}
+        - {x: -13.046936, y: 43.505768}
+        - {x: -13.046936, y: -1.4942322}
+        - {x: 21.953064, y: -1.4942322}
+        - {x: 85.953064, y: 44.505768}
+        - {x: 85.953064, y: 73.50577}
+    - name: Monsters_DresserUpper_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 324
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.14550976, y: 0.021973038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.6779175, y: 11.242157}
+        - {x: -13.6779175, y: 6.242157}
+        - {x: -13.6779175, y: -1.757843}
+        - {x: 69.32208, y: -1.757843}
+        - {x: 80.32208, y: 20.242157}
+        - {x: 80.32208, y: 78.24216}
+        - {x: 29.322083, y: 78.24216}
+        - {x: 18.322083, y: 75.24216}
+    - name: Monsters_DresserUpper_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13837247, y: 0.021973228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.992989, y: 78.24214}
+        - {x: -13.007011, y: 7.2421417}
+        - {x: -13.007011, y: -1.7578583}
+        - {x: 16.992989, y: -1.7578583}
+        - {x: 80.99299, y: 42.24214}
+        - {x: 80.99299, y: 78.24214}
+    - name: Monsters_DresserUpper_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.16160022, y: 0.017192092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.718384, y: 105.160446}
+        - {x: -12.281616, y: 8.160446}
+        - {x: -12.281616, y: -1.8395538}
+        - {x: 23.718384, y: -1.8395538}
+        - {x: 63.718384, y: 72.160446}
+        - {x: 63.718384, y: 105.160446}
+    - name: Monsters_DresserUpper_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 160
+        width: 38
+        height: 118
+      alignment: 9
+      pivot: {x: 0.34698486, y: 0.011028096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.814575, y: 116.698685}
+        - {x: 0.8145752, y: 116.698685}
+        - {x: -12.185425, y: 107.698685}
+        - {x: -13.185425, y: 86.698685}
+        - {x: -13.185425, y: -1.3013153}
+        - {x: 23.814575, y: -1.3013153}
+        - {x: 24.814575, y: 5.6986847}
+        - {x: 24.814575, y: 108.698685}
+        - {x: 19.814575, y: 115.698685}
+    - name: Monsters_DresserUpper_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 160
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.17925584, y: 0.021372287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.376556, y: 104.713165}
+        - {x: -13.623444, y: 7.7131653}
+        - {x: -13.623444, y: -2.2868347}
+        - {x: 22.376556, y: -2.2868347}
+        - {x: 62.376556, y: 71.713165}
+        - {x: 62.376556, y: 104.713165}
+    - name: Monsters_DresserUpper_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 160
+        width: 115
+        height: 60
+      alignment: 9
+      pivot: {x: 0.116898246, y: 0.034086864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.443298, y: 14.954788}
+        - {x: -13.443298, y: -2.0452118}
+        - {x: 17.556702, y: -2.0452118}
+        - {x: 101.5567, y: 24.954788}
+        - {x: 101.5567, y: 57.95479}
+        - {x: 17.556702, y: 57.95479}
+        - {x: -6.4432983, y: 52.95479}
+    - name: Monsters_DresserUpper_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 160
+        width: 129
+        height: 28
+      alignment: 9
+      pivot: {x: 0.108199716, y: 0.06869725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Monsters_DresserUpper_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 23
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.1507699, y: 0.030667543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.82763, y: 77.5466}
+        - {x: -14.172371, y: 6.5465965}
+        - {x: -14.172371, y: -2.4534035}
+        - {x: 15.827629, y: -2.4534035}
+        - {x: 79.82763, y: 41.546597}
+        - {x: 79.82763, y: 77.5466}
+    - name: Monsters_DresserUpper_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 23
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.15482698, y: 0.032327063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.839706, y: 65.80176}
+        - {x: -13.160294, y: 4.8017597}
+        - {x: -13.160294, y: -2.1982403}
+        - {x: 19.839706, y: -2.1982403}
+        - {x: 71.83971, y: 31.80176}
+        - {x: 71.83971, y: 65.80176}
+    - name: Monsters_DresserUpper_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 23
+        width: 94
+        height: 77
+      alignment: 9
+      pivot: {x: 0.15076981, y: 0.031033924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.82764, y: 43.61039}
+        - {x: 79.82764, y: 49.61039}
+        - {x: 79.82764, y: 73.61039}
+        - {x: 76.82764, y: 74.61039}
+        - {x: 23.827637, y: 74.61039}
+        - {x: -13.172363, y: 12.61039}
+        - {x: -14.172363, y: 7.6103897}
+        - {x: -14.172363, y: -2.3896103}
+        - {x: 14.827637, y: -2.3896103}
+        - {x: 19.827637, y: 2.6103897}
+        - {x: 26.827637, y: 12.61039}
+        - {x: 31.827637, y: 18.61039}
+    - name: Monsters_DresserUpper_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 23
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.15241304, y: 0.03534429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.044891, y: 65.59659}
+        - {x: -12.955109, y: 4.596588}
+        - {x: -12.955109, y: -2.4034119}
+        - {x: 20.044891, y: -2.4034119}
+        - {x: 72.04489, y: 31.596588}
+        - {x: 72.04489, y: 65.59659}
+    - name: Monsters_DresserUpper_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 23
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13767388, y: 0.022973562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.058655, y: 78.16212}
+        - {x: -12.941345, y: 7.162117}
+        - {x: -12.941345, y: -1.837883}
+        - {x: 17.058655, y: -1.837883}
+        - {x: 81.058655, y: 42.162117}
+        - {x: 81.058655, y: 78.16212}
+    - name: Monsters_DresserUpper_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 23
+        width: 84
+        height: 90
+      alignment: 9
+      pivot: {x: 0.15316045, y: 0.018983884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.13452, y: 81.29145}
+        - {x: 64.13452, y: 88.29145}
+        - {x: 21.134521, y: 88.29145}
+        - {x: 15.1345215, y: 87.29145}
+        - {x: -12.8654785, y: 8.2914505}
+        - {x: -12.8654785, y: -1.7085495}
+        - {x: 18.134521, y: -1.7085495}
+        - {x: 34.13452, y: 9.2914505}
+        - {x: 69.13452, y: 53.29145}
+        - {x: 71.13452, y: 59.29145}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

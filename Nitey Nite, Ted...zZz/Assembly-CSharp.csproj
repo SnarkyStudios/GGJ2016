@@ -45,10 +45,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Assets\Scripts\Camera\Camera2DFollow.cs" />
-     <Compile Include="Assets\Assets\Scripts\Character\Platformer2DUserControl.cs" />
-     <Compile Include="Assets\Assets\Scripts\Character\PlatformerCharacter2D.cs" />
-     <Compile Include="Assets\Assets\Scripts\Restarter.cs" />
+     <Compile Include="Assets\Scripts\Camera\Camera2DFollow.cs" />
+     <Compile Include="Assets\Scripts\Character\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Scripts\Character\PlatformerCharacter2D.cs" />
+     <Compile Include="Assets\Scripts\Character\PlayerHit.cs" />
+     <Compile Include="Assets\Scripts\Credits\CreditAnimation.cs" />
+     <Compile Include="Assets\Scripts\Curtains\CurtainCord.cs" />
+     <Compile Include="Assets\Scripts\Curtains\Curtains.cs" />
+     <Compile Include="Assets\Scripts\End Animation\EndAnimation.cs" />
+     <Compile Include="Assets\Scripts\GameIntro.cs" />
+     <Compile Include="Assets\Scripts\Monsters\Monster.cs" />
+     <Compile Include="Assets\Scripts\Monsters\PlayerDetector.cs" />
+     <Compile Include="Assets\Scripts\Restarter.cs" />
+     <Compile Include="Assets\Scripts\Start Screen\StartScreenAnimation.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

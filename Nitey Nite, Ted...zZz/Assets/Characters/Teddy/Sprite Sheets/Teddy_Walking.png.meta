@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 67fda3a80f0abd34abf971801f912d68
+timeCreated: 1454190221
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Teddy_Walking_0
+    21300002: Teddy_Walking_1
+    21300004: Teddy_Walking_2
+    21300006: Teddy_Walking_3
+    21300008: Teddy_Walking_4
+    21300010: Teddy_Walking_5
+    21300012: Teddy_Walking_6
+    21300014: Teddy_Walking_7
+    21300016: Teddy_Walking_8
+    21300018: Teddy_Walking_9
+    21300020: Teddy_Walking_10
+    21300022: Teddy_Walking_11
+    21300024: Teddy_Walking_12
+    21300026: Teddy_Walking_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Teddy_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -60.5}
+        - {x: 30, y: -60.5}
+        - {x: 30, y: 60.5}
+        - {x: -30, y: 60.5}
+    - name: Teddy_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 259
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 58}
+        - {x: -29.5, y: -58}
+        - {x: 29.5, y: -58}
+        - {x: 29.5, y: 58}
+    - name: Teddy_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 259
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 58}
+        - {x: -30.5, y: -58}
+        - {x: 20.5, y: -58}
+        - {x: 30.5, y: -15}
+        - {x: 30.5, y: 51}
+        - {x: 24.5, y: 58}
+    - name: Teddy_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 259
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 58}
+        - {x: -30.5, y: 54}
+        - {x: -30.5, y: -58}
+        - {x: 26.5, y: -58}
+        - {x: 30.5, y: -34}
+        - {x: 30.5, y: 51}
+        - {x: 23.5, y: 58}
+    - name: Teddy_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -56}
+        - {x: -29, y: -58}
+        - {x: 10, y: -58}
+        - {x: 30, y: -41}
+        - {x: 30, y: 58}
+        - {x: -28, y: 58}
+        - {x: -30, y: 57}
+    - name: Teddy_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 130
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -44}
+        - {x: -25, y: -58}
+        - {x: 14, y: -58}
+        - {x: 30, y: -44}
+        - {x: 30, y: 54}
+        - {x: 29, y: 58}
+        - {x: -28, y: 58}
+        - {x: -30, y: 57}
+    - name: Teddy_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: -59.5}
+        - {x: 10, y: -59.5}
+        - {x: 30, y: -47.5}
+        - {x: 30, y: 59.5}
+        - {x: -22, y: 59.5}
+        - {x: -30, y: 56.5}
+        - {x: -30, y: -40.5}
+    - name: Teddy_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 60}
+        - {x: -30, y: 60}
+        - {x: -30, y: -46}
+        - {x: -18, y: -60}
+        - {x: 16, y: -60}
+        - {x: 25, y: -56}
+        - {x: 30, y: -23}
+        - {x: 30, y: 51}
+    - name: Teddy_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 128
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 60.5}
+        - {x: -27, y: 60.5}
+        - {x: -30, y: 59.5}
+        - {x: -30, y: -44.5}
+        - {x: -18, y: -60.5}
+        - {x: 18, y: -60.5}
+        - {x: 25, y: -52.5}
+        - {x: 30, y: -23.5}
+        - {x: 30, y: 43.5}
+    - name: Teddy_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 128
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -50.5}
+        - {x: 28, y: -30.5}
+        - {x: 30, y: 0.5}
+        - {x: 30, y: 42.5}
+        - {x: 20, y: 60.5}
+        - {x: -13, y: 60.5}
+        - {x: -21, y: 59.5}
+        - {x: -30, y: 51.5}
+        - {x: -30, y: -39.5}
+        - {x: -26, y: -60.5}
+        - {x: 0, y: -60.5}
+        - {x: 0, y: -59.5}
+        - {x: 8, y: -59.5}
+        - {x: 19, y: -57.5}
+    - name: Teddy_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 61}
+        - {x: -29.5, y: 56}
+        - {x: -29.5, y: -36}
+        - {x: -22.5, y: -61}
+        - {x: 29.5, y: -61}
+        - {x: 29.5, y: 51}
+        - {x: 19.5, y: 61}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
