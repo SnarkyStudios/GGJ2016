@@ -17,9 +17,11 @@ public class CreditAnimation : MonoBehaviour {
 	}
 
 	IEnumerator EndCredits(){
+		iTween.AudioTo(GameObject.Find("Music"),0,1,1);
 		iTween.CameraFadeAdd();
 		iTween.CameraFadeTo(1,1);
 		yield return new WaitForSeconds(1.5f);
+		Destroy(GameObject.Find("Music"));
 		SceneManager.LoadScene(0);
 	}
 }

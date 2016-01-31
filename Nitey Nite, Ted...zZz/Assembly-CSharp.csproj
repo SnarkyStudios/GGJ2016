@@ -53,9 +53,11 @@
      <Compile Include="Assets\Scripts\Curtains\CurtainCord.cs" />
      <Compile Include="Assets\Scripts\Curtains\Curtains.cs" />
      <Compile Include="Assets\Scripts\End Animation\EndAnimation.cs" />
+     <Compile Include="Assets\Scripts\FinishGame.cs" />
      <Compile Include="Assets\Scripts\GameIntro.cs" />
      <Compile Include="Assets\Scripts\Monsters\Monster.cs" />
      <Compile Include="Assets\Scripts\Monsters\PlayerDetector.cs" />
+     <Compile Include="Assets\Scripts\Restart.cs" />
      <Compile Include="Assets\Scripts\Restarter.cs" />
      <Compile Include="Assets\Scripts\Start Screen\StartScreenAnimation.cs" />
  <Reference Include="UnityEngine.UI">

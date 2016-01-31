@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 2cf81365fcf1e2045b384349e11d01bc
+timeCreated: 1454261607
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kite
+    21300002: Train
+    21300004: Toy Rex
+    21300006: Soccer
+    21300008: Pictures
+    21300010: tentical
+    21300012: pacman
+    21300014: dirty wool
+    21300016: shelf01
+    21300018: shelf02
+    21300020: forground1
+    21300022: forground2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kite
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 925
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 71}
+        - {x: -73.5, y: -6}
+        - {x: -73.5, y: -68}
+        - {x: -71.5, y: -71}
+        - {x: 70.5, y: -71}
+        - {x: 73.5, y: -47}
+        - {x: 73.5, y: 71}
+    - name: Train
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 925
+        width: 170
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 24.5}
+        - {x: -85, y: 8.5}
+        - {x: -85, y: -20.5}
+        - {x: -82, y: -24.5}
+        - {x: 85, y: -24.5}
+        - {x: 85, y: 24.5}
+    - name: Toy Rex
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 924
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 28.5}
+        - {x: -13.5, y: 24.5}
+        - {x: -34.5, y: 0.5}
+        - {x: -34.5, y: -28.5}
+        - {x: 34.5, y: -28.5}
+        - {x: 34.5, y: 22.5}
+        - {x: 26.5, y: 28.5}
+    - name: Soccer
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 922
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 49.5}
+        - {x: -49.5, y: 23.5}
+        - {x: -49.5, y: -41.5}
+        - {x: -31.5, y: -49.5}
+        - {x: 43.5, y: -49.5}
+        - {x: 49.5, y: -42.5}
+        - {x: 49.5, y: 38.5}
+        - {x: 25.5, y: 49.5}
+    - name: Pictures
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 865
+        width: 404
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 38}
+        - {x: -57, y: 38}
+        - {x: -62, y: 31}
+        - {x: -62, y: -88}
+        - {x: -59, y: -93}
+        - {x: 58, y: -93}
+        - {x: 61, y: -90}
+        - {x: 61, y: 35}
+      - - {x: -202, y: 93}
+        - {x: -202, y: -36}
+        - {x: -82, y: -36}
+        - {x: -82, y: 93}
+      - - {x: 81, y: 93}
+        - {x: 80, y: 92}
+        - {x: 80, y: -33}
+        - {x: 81, y: -36}
+        - {x: 202, y: -36}
+        - {x: 202, y: 93}
+    - name: tentical
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 672
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 56}
+        - {x: -49, y: -9}
+        - {x: -49, y: -56}
+        - {x: -12, y: -56}
+        - {x: 49, y: -9}
+        - {x: 49, y: 56}
+    - name: pacman
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 692
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 40}
+        - {x: -51, y: -36}
+        - {x: -48, y: -40}
+        - {x: 51, y: -40}
+        - {x: 51, y: 20}
+        - {x: 26, y: 40}
+    - name: dirty wool
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 700
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 27.5}
+        - {x: -40.5, y: 27.5}
+        - {x: -46.5, y: 17.5}
+        - {x: -46.5, y: -16.5}
+        - {x: -41.5, y: -27.5}
+        - {x: 46.5, y: -27.5}
+        - {x: 46.5, y: 8.5}
+        - {x: 40.5, y: 21.5}
+    - name: shelf01
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 362
+        width: 320
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: 61.5}
+        - {x: 102, y: 66.5}
+        - {x: -158, y: 66.5}
+        - {x: -160, y: 53.5}
+        - {x: -160, y: -54.5}
+        - {x: -145, y: -66.5}
+        - {x: 31, y: -66.5}
+        - {x: 59, y: -61.5}
+        - {x: 61, y: -66.5}
+        - {x: 138, y: -66.5}
+        - {x: 160, y: -58.5}
+        - {x: 160, y: 27.5}
+    - name: shelf02
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 276
+        width: 320
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 66}
+        - {x: 75, y: 60}
+        - {x: 64, y: 28}
+        - {x: -9, y: 66}
+        - {x: -69, y: 66}
+        - {x: -129, y: 31}
+        - {x: -160, y: 3}
+        - {x: -160, y: -66}
+        - {x: 160, y: -66}
+        - {x: 160, y: 61}
+        - {x: 154, y: 66}
+    - name: forground1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 898
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 355, y: -9.5}
+        - {x: 320, y: 16.5}
+        - {x: 251, y: 22.5}
+        - {x: 261, y: 36.5}
+        - {x: 252, y: 61.5}
+        - {x: 247, y: 60.5}
+        - {x: 232, y: 40.5}
+        - {x: 204, y: 55.5}
+        - {x: 182, y: 67.5}
+        - {x: 152, y: 77.5}
+        - {x: 124, y: 91.5}
+        - {x: 101, y: 91.5}
+        - {x: 75, y: 74.5}
+        - {x: 78, y: 70.5}
+        - {x: 73, y: 70.5}
+        - {x: 71, y: 68.5}
+        - {x: 71, y: 66.5}
+        - {x: 80, y: 48.5}
+        - {x: 69, y: 46.5}
+        - {x: 67, y: 43.5}
+        - {x: 63, y: 27.5}
+        - {x: 65, y: 17.5}
+        - {x: -76, y: 17.5}
+        - {x: -76, y: 48.5}
+        - {x: -79, y: 49.5}
+        - {x: -260, y: 49.5}
+        - {x: -262, y: 47.5}
+        - {x: -264, y: 35.5}
+        - {x: -242, y: 28.5}
+        - {x: -273, y: 30.5}
+        - {x: -276, y: 17.5}
+        - {x: -341, y: 16.5}
+        - {x: -425, y: -62.5}
+        - {x: -449, y: -87.5}
+        - {x: -449, y: -91.5}
+        - {x: 449, y: -91.5}
+        - {x: 449, y: -86.5}
+        - {x: 402, y: -47.5}
+    - name: forground2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 486
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 219, y: -10}
+        - {x: 181, y: 40}
+        - {x: 175, y: 47}
+        - {x: -186, y: 47}
+        - {x: -192, y: 38}
+        - {x: -199, y: 28}
+        - {x: -217, y: 0}
+        - {x: -233, y: -25}
+        - {x: -242, y: -39}
+        - {x: -243, y: -41}
+        - {x: -243, y: -47}
+        - {x: 243, y: -47}
+        - {x: 243, y: -41}
+        - {x: 231, y: -25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

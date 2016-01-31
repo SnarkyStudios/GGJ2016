@@ -12,18 +12,31 @@ public class Monster : MonoBehaviour {
 	// Use this for initialization
 	void Awake () {
 		anim = GetComponent<Animator>();
-		StartCoroutine("AttackSequence");
+		if(attackRate > 0)
+			StartCoroutine("AttackSequence");
 	}
 
 	void CurtainClosed (){
-		Debug.Log(gameObject.tag + " || " + anim.GetBool("Shrink"));
 		if(gameObject.tag == "Boss" && anim.GetBool("Shrink") == false){
 			anim.SetBool("Shrink", true);
 		}
 		else{
 			GetComponent<PlayerDetector>().enabled = false;
 			anim.SetBool("Distance", false);
+			GetComponent<CircleCollider2D>().enabled = false;
 		}
+	}
+
+	void SmallAttackRecovery(){
+		StartCoroutine("BeginRecovery");
+	}
+
+	IEnumerator BeginRecovery(){
+		yield return new WaitForSeconds(2);
+		anim.SetBool("Recover",true);
+
+		yield return new WaitForSeconds(2);
+		anim.SetBool("Recover",false);
 	}
 
 	IEnumerator AttackSequence(){
@@ -32,7 +45,7 @@ public class Monster : MonoBehaviour {
 		if(anim.GetBool("Distance") == true){
 			anim.SetBool("Attack",true);
 			if(playerInDanger){
-				PlayerHit.Hit();
+				GameObject.FindGameObjectWithTag("Player").SendMessage("DetectedHit");
 			}
 			yield return new WaitForSeconds(1);
 			anim.SetBool("Attack", false);
@@ -43,6 +56,9 @@ public class Monster : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other){
 		if(other.tag == "Player"){
+			if(attackRate == 0){
+				GameObject.FindGameObjectWithTag("Player").SendMessage("DetectedHit");
+			}
 			playerInDanger = true;
 		}
 	}

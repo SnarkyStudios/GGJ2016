@@ -47,7 +47,7 @@ public class StartScreenAnimation : MonoBehaviour {
 
 	void Update(){
 		if(Input.anyKeyDown){
-			SceneManager.LoadScene(1);
+			SceneManager.LoadScene("Game");
 		}
 	}
 }

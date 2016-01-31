@@ -6,6 +6,7 @@ using System.Collections.Generic;
 public class GameIntro : MonoBehaviour {
 
 	public GameObject Teddy;
+	public GameObject instructions;
 	public List<Transform> teddyPoints = new List<Transform>();
 	public PlatformerCharacter2D teddyCharacter;
 	public Platformer2DUserControl teddyControl;
@@ -42,5 +43,14 @@ public class GameIntro : MonoBehaviour {
 		roomDoor.GetComponent<EdgeCollider2D>().enabled = true;
 
 		iTween.RotateTo(roomDoor,iTween.Hash("y",90,"time",1,"easetype",iTween.EaseType.easeInExpo));
+	}
+
+	void Update() {
+		if(teddyCharacter.enabled){
+			if(Input.anyKeyDown){
+				Destroy(instructions);
+				Destroy(this);
+			}
+		}
 	}
 }
