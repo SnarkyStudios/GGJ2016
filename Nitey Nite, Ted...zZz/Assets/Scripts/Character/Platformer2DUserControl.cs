@@ -35,9 +35,9 @@ namespace UnityStandardAssets._2D
             float h = CrossPlatformInputManager.GetAxis("Horizontal");
 
 			if(h < 0.01f && h > -0.01f)
-				m_Blanket = Input.GetKey(KeyCode.LeftShift);
+				m_Blanket = (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift));
 			else if(m_Blanket)
-				m_Blanket = Input.GetKey(KeyCode.LeftShift);
+				m_Blanket = (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift));
 			
             // Pass all parameters to the character control script.
 			m_Character.Move(h, crouch, m_Jump, m_Blanket);

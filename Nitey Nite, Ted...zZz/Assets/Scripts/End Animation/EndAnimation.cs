@@ -28,16 +28,16 @@ public class EndAnimation : MonoBehaviour {
 	IEnumerator Slideshow(){
 		yield return new WaitForSeconds(displayTime);
 		currentSlide++;
-		iTween.CameraFadeTo(1,1.5f);
+		iTween.CameraFadeTo(1,0.5f);
 
-		yield return new WaitForSeconds(1.5f);
+		yield return new WaitForSeconds(0.5f);
 		slideImage.sprite = Sequence[currentSlide];
-		iTween.CameraFadeTo(0,1.5f);
+		iTween.CameraFadeTo(0,0.5f);
 
 		if(currentSlide == effectSlide)
 			effectImage.enabled = false;
 
-		yield return new WaitForSeconds(1.5f);
+		yield return new WaitForSeconds(0.5f);
 		if(currentSlide >= Sequence.Count - 1){
 			yield return new WaitForSeconds(5);
 			iTween.CameraFadeTo(1,2);
